@@ -1,8 +1,6 @@
 package com.example.Library;
 
-import org.springframework.stereotype.Component;
 
-@Component
 public class Author {
     String firstName;
     String lastName;
